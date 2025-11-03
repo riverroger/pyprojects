@@ -1,1 +1,1 @@
-Hello this is the readme for the test branch.
+Hello this is my collection of school mini python projects.
